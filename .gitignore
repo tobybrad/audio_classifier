@@ -1,3 +1,7 @@
+data/audio/data
+data/mnist/training
+data/mnist/testing
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
